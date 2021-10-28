@@ -1,0 +1,11 @@
+name: Fantaria-Mananger-1.0
+version: 1.0
+author: BatMinecraft
+main: fr.batminecraft.fantariamananger.Mananger
+commands:
+  fm-info:
+    description: Vous permet d'avoir les infos sur le plugin
+    permission: fm-info.use
+  fm-event:
+    description: Permet de informer qu'il y a un event
+    permission: fm-event.use
